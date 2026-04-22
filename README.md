@@ -55,7 +55,7 @@ A través del análisis de datos históricos de lanzamientos de SpaceX, se ident
 
 Se desarrollaron visualizaciones interactivas y un modelo de machine learning capaz de estimar la probabilidad de éxito del aterrizaje de la primera etapa, considerando variables como la carga útil, el sitio de lanzamiento y las características de la misión.
 
-Este enfoque permite apoyar la toma de decisiones en la estimación de costos y eficiencia operativa de futuros lanzamientos, aportando valor al análisis estratégico en la industria aeroespacial.
+Este enfoque permite apoyar la toma de decisiones en la estimación de costos y eficiencia operativa de futuros lanzamientos, aportando valor al análisis estratégico para SpaceY en su objetivo de competir en la industria aeroespacial frente a SpaceX.
 
 ---
 

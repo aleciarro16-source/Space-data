@@ -51,6 +51,8 @@ Predecir si la primera etapa aterrizará con éxito permite estimar el costo de 
 
 ## 📈 Resultados
 
+Se lograron identificar patrones clave en los lanzamientos de SpaceX, incluyendo:
+
 - Identificación de sitios con mayor tasa de éxito
 - Relación entre carga útil y éxito del lanzamiento
 - Visualización de ubicaciones estratégicas

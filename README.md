@@ -62,4 +62,9 @@ Se lograron identificar patrones clave en los lanzamientos de SpaceX, incluyendo
 
 ## 📌 Autor
 
-Proyecto realizado como parte de formación en Ciencia de Datos.
+📌 Autor
+
+Aylen Ciarrocchi  
+Data Science & Machine Learning Project  
+Argentina  
+
